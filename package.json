@@ -1,0 +1,26 @@
+{
+  "name": "ik-wil-ne-playstation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mathimariman/ik-wil-ne-playstation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mathimariman/ik-wil-ne-playstation/issues"
+  },
+  "homepage": "https://github.com/mathimariman/ik-wil-ne-playstation#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "node-fetch": "^2.6.1",
+    "node-notifier": "^8.0.0",
+    "open": "^7.3.0"
+  }
+}
