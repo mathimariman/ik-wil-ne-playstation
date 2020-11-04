@@ -1,7 +1,6 @@
 const open = require('open');
 const fetch = require('node-fetch');
 const cheerio = require('cheerio');
-const notifier = require('node-notifier');
 
 const productId = '868090';
 const productUrl = 'https://www.coolblue.be/nl/product/' + productId;
